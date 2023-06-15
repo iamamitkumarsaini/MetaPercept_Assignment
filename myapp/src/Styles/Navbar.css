@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    padding: 12px;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;;
+}
+
+.navbarInner{
+    display: flex;
+    gap: 18px;
+}
+.btnClass{
+    color: blue;
+    border: 1px solid blue;
+}
